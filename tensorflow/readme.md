@@ -1,4 +1,4 @@
-# 这里是tensorflow的基本知识
+# 这里是’tensorflow’的基本知识
 -----
 ## tensorflow的数据类型
 **tf.Tensor是相当于np.array的存在**
