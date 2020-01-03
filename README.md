@@ -7,6 +7,6 @@ learning deep-learning by Pycharm
 
 ### 第二步，线性回归算法的初步热身
 
-#### 只用numpy 模块实现线性回归 Linear Regression[https://github.com/Sommer1111/DeepLearning-pycharm/blob/master/linear%20regression.py]
+#### 只用numpy 模块实现线性回归 [Linear Regression](https://github.com/Sommer1111/DeepLearning-pycharm/blob/master/linear%20regression.py)
 
 #### 分类算法 Classification 手写体数字识别的实现
