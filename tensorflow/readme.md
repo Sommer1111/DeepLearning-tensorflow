@@ -7,7 +7,7 @@
    + `scalar`，标量，就是单个的数，比如，1，2，4，这类
    + `vector`，向量，[1，2，3]
    + `matrix`，矩阵，[[1,2,3],[1,2,3]]
-   + `tensor`,张量，dim>2时就把它统称为tensor
+   + `tensor`，张量，dim>2时就把它统称为tensor
    
 ## 二、`tensor`的创建
 ---
@@ -16,9 +16,9 @@
    + 利用`tf.constant`
    ---
    **将`tensorflow`的数据类型一一对应到神经网络里面**
-   + saclar对应loss
-   + vector 对应bias
-   + tensor 对应input、w、表示文本、表示图像
+   + `saclar` 对应`loss`
+   + `vector` 对应`bias`
+   + `tensor` 对应`input`、`w`、表示文本、表示图像
    
    ---
 ## 三、`tensorflow`的初阶操作
