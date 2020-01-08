@@ -17,3 +17,8 @@
 ---
 ### 三、学习tensorflow的基本操作
    + **[tensorflow](https://github.com/Sommer1111/DeepLearning-tensorflow/tree/master/tensorflow)**
+### 四、神经网络与全连接层
+   + [创建全连接层](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/DeepLearning_1_%E5%88%9B%E5%BB%BA%E5%85%A8%E8%BF%9E%E6%8E%A5%E5%B1%82.ipynb)
+   + [输出方式](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/DeepLearning_2_%E8%BE%93%E5%87%BA%E6%96%B9%E5%BC%8F.ipynb)
+   + [损失函数](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/DeepLearning_3_%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0.ipynb)
+   + [梯度计算](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/DeepLearning_4_%E6%A2%AF%E5%BA%A6gradient.ipynb)
