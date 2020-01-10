@@ -23,10 +23,10 @@
    + 评估神经网络性能之[损失函数](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/DeepLearning_3_%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0.ipynb)
    + 神经网络更新权值的方式[梯度计算](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/DeepLearning_4_%E6%A2%AF%E5%BA%A6gradient.ipynb)
    + 最简单的神经网络[感知器模型](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/DeepLearning_5_%E6%84%9F%E7%9F%A5%E6%9C%BA%E6%A8%A1%E5%9E%8B.ipynb)
-   
-   + 神经网络的初步实战，寻找最小值之[2D函数优化](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/DeepLearning_6_2D%E5%87%BD%E6%95%B0%E4%BC%98%E5%8C%96.ipynb)
-   + 神经网络进阶实战之[fashmnist实战](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/DeepLearning_7_fashionmnist%E5%AE%9E%E6%88%98.py)
-   
+   ---
+   + 神经网络的初步实战之 [2D函数优化](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/DeepLearning_6_2D%E5%87%BD%E6%95%B0%E4%BC%98%E5%8C%96.ipynb)
+   + 神经网络进阶实战之 [fashmnist实战](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/DeepLearning_7_fashionmnist%E5%AE%9E%E6%88%98.py)
+   ---
    + 神经网络的可视化[tensorboard](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/DeepLearning_8_tensorboard%E5%8F%AF%E8%A7%86%E5%8C%96.ipynb)
 
 ### 五、学习[Keras模块](https://github.com/Sommer1111/DeepLearning-tensorflow/tree/master/Keras%E6%A8%A1%E5%9D%97)的函数
