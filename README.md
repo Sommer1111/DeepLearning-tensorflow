@@ -23,16 +23,18 @@
    + 评估神经网络性能之[损失函数](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/DeepLearning_3_%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0.ipynb)
    + 神经网络更新权值的方式[梯度计算](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/DeepLearning_4_%E6%A2%AF%E5%BA%A6gradient.ipynb)
    + 最简单的神经网络[感知器模型](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/DeepLearning_5_%E6%84%9F%E7%9F%A5%E6%9C%BA%E6%A8%A1%E5%9E%8B.ipynb)
-   + 神经网络的初步实战，寻找最小值[2D函数优化](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/DeepLearning_6_2D%E5%87%BD%E6%95%B0%E4%BC%98%E5%8C%96.ipynb)
-   + 神经网络进阶实战[fashmnist实战](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/DeepLearning_7_fashionmnist%E5%AE%9E%E6%88%98.py)
+   
+   + 神经网络的初步实战，寻找最小值之[2D函数优化](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/DeepLearning_6_2D%E5%87%BD%E6%95%B0%E4%BC%98%E5%8C%96.ipynb)
+   + 神经网络进阶实战之[fashmnist实战](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/DeepLearning_7_fashionmnist%E5%AE%9E%E6%88%98.py)
+   
    + 神经网络的可视化[tensorboard](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/DeepLearning_8_tensorboard%E5%8F%AF%E8%A7%86%E5%8C%96.ipynb)
 
 ### 五、学习[Keras模块](https://github.com/Sommer1111/DeepLearning-tensorflow/tree/master/Keras%E6%A8%A1%E5%9D%97)的函数
    + keras模块的[基本函数](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/Keras%E6%A8%A1%E5%9D%97/Deeplearning_9_keras%E6%A8%A1%E5%9D%97.ipynb)
-          + [量表函数](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/Keras%E6%A8%A1%E5%9D%97/Deeplearning_9-1_keras_%E9%87%8F%E8%A1%A8%E5%87%BD%E6%95%B0.py)
-          + [训练函数](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/Keras%E6%A8%A1%E5%9D%97/Deeplearning_9-2_keras_%E8%AE%AD%E7%BB%83%E5%87%BD%E6%95%B0.py)
+      + [量表函数](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/Keras%E6%A8%A1%E5%9D%97/Deeplearning_9-1_keras_%E9%87%8F%E8%A1%A8%E5%87%BD%E6%95%B0.py)
+      + [训练函数](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/Keras%E6%A8%A1%E5%9D%97/Deeplearning_9-2_keras_%E8%AE%AD%E7%BB%83%E5%87%BD%E6%95%B0.py)
    + 个性化层的设计[自定义层](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/Keras%E6%A8%A1%E5%9D%97/Deeplearning_10_%E8%87%AA%E5%AE%9A%E4%B9%89%E5%B1%82.ipynb)
-          + [实战](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/Keras%E6%A8%A1%E5%9D%97/Deeplearning_10-1_%E5%AE%9E%E6%88%98%E8%87%AA%E5%AE%9A%E4%B9%89%E5%B1%82.py)
+      + [实战](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/Keras%E6%A8%A1%E5%9D%97/Deeplearning_10-1_%E5%AE%9E%E6%88%98%E8%87%AA%E5%AE%9A%E4%B9%89%E5%B1%82.py)
    + 应对突发情况[模型的保存与加载](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/Keras%E6%A8%A1%E5%9D%97/DeepLearning_11_%E6%A8%A1%E5%9E%8B%E4%BF%9D%E5%AD%98%E4%B8%8E%E5%8A%A0%E8%BD%BD.ipynb)
-           + [保存偏置权值](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/Keras%E6%A8%A1%E5%9D%97/DeepLearning_11-2_weightsave.py)
-           + [保存整个model](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/Keras%E6%A8%A1%E5%9D%97/DeepLearning_11-2_modelsave.py)
+      + [保存偏置权值](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/Keras%E6%A8%A1%E5%9D%97/DeepLearning_11-2_weightsave.py)
+      + [保存整个model](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/Keras%E6%A8%A1%E5%9D%97/DeepLearning_11-2_modelsave.py)
