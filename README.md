@@ -39,4 +39,4 @@
       + [保存偏置权值](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/Keras%E6%A8%A1%E5%9D%97/DeepLearning_11-2_weightsave.py)
       + [保存整个model](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/Keras%E6%A8%A1%E5%9D%97/DeepLearning_11-2_modelsave.py)
    + 学成集合一下， [keras综合性实战 cifar10](https://github.com/Sommer1111/DeepLearning-tensorflow/blob/master/Keras%E6%A8%A1%E5%9D%97/Deeplearning_12_keras%E5%AE%9E%E6%88%98cifar10.py)
-      +这里如果遇到cirfar10自动下载速度太慢的情况，可以参考我的解决方法，文章发布在CSDN博客里面[如何处理cifar下载速度太慢](https://blog.csdn.net/qq_42647903/article/details/103923007)
+      + 这里如果遇到cirfar10自动下载速度太慢的情况，可以参考我的解决方法，文章发布在CSDN博客里面[如何处理cifar下载速度太慢](https://blog.csdn.net/qq_42647903/article/details/103923007)
